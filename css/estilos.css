@@ -127,3 +127,33 @@ h4{
 	border: 3px  blue double;
 	padding: 7px;
 }
+.parrafo3{
+	width: 70%;
+	height: 280px;
+	/*background: red;*/
+	float:left;
+	text-align: justify;
+	box-sizing: border-box;
+	font-size: 14px;
+    font-family: fgh;
+    padding: 10px
+}
+.seccion4{
+	width: 30%;
+	height: 280px;
+	float:right;
+	/*background: blue;*/
+	box-sizing: border-box;
+	padding: 15px;
+}
+footer{
+	background: black;
+	width: 95%;
+	height: 350px;
+	margin: auto;
+	border-radius: 10px;
+}
+.img1{
+	width: 80%;
+	margin: auto;
+}
