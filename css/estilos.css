@@ -21,3 +21,109 @@ header{
 	box-sizing: border-box;
 	padding-top: 20px;
 }
+h2{
+	width: 62%;
+	height: 120px;
+	background: white;
+	float:right;
+	text-align: center;
+	padding-top: 35px;
+	box-sizing: border-box;
+	font-size: 35px;
+    font-family: fgh;
+}
+nav ul li{
+	display: inline;
+	color:white;
+	font-size: 13px;
+	text-decoration: none;
+	padding-left: 15px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+nav ul li:hover{
+	color: gray;
+}
+
+.menu{
+	width: 100%;
+	height: 30px;
+	background:  #005883;
+	margin: auto;
+	text-align: left;
+	padding-top: 5px;
+	box-sizing: border-box;
+	padding-left: 15px;
+}
+
+.espacio{
+	width: 100%;
+	height: 20px;
+	background: white;
+}
+
+.contenedor1{
+	background: white;
+	width: 100%;
+	height: 350px;
+}
+.ancho1{
+	width: 95%;
+	height: 350px;
+	margin: auto;
+	background: #E8E8E8;
+	border-radius: 10px;
+}
+.tituloseccion1{
+	width: 100%;
+	height: 50px;
+	background: white;
+	margin: auto;
+	text-align: center;
+	padding-top: 15px;
+	box-sizing: border-box;
+	padding-left: 15px;
+	border: 3px  blue double;
+}
+.seccion1{
+	width: 30%;
+	height: 280px;
+	float:left;
+	/*background: blue;*/
+	box-sizing: border-box;
+	padding: 15px;
+}
+.parrafo1{
+	width: 70%;
+	height: 280px;
+	/*background: red;*/
+	float:left;
+	text-align: justify;
+	box-sizing: border-box;
+	font-size: 14px;
+    font-family: fgh;
+    padding: 10px
+}
+h4{
+	font-size: 18px;
+    font-family: fgh;
+   /* background: white;*/
+}
+.seccion2{
+	width: 47%;
+	height: 280px;
+	/*background: red;*/
+	float:left;
+	box-sizing: border-box;
+	border: 3px  blue double;
+	padding: 7px;
+}
+.seccion3{
+	width: 47%;
+	height: 280px;
+	/*background: red;*/
+	float:right;
+	box-sizing: border-box;
+	border: 3px  blue double;
+	padding: 7px;
+}
