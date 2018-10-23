@@ -196,3 +196,7 @@ footer{
 	width: 80%;
 	margin: auto;
 }
+.centrado{
+	margin:10px auto;
+	display:block;
+}
