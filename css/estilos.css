@@ -3,7 +3,7 @@
 	margin: 0;
 }
 /*fuentes personalizadas*/
-@font-face {
+/*@font-face {
     font-family: lobs;
     src: url(fuentes/Lobster-Regular.ttf) format('truetype');
 }
@@ -36,7 +36,7 @@
     font-family: fgi;
     src: url(fuentes/Franklin Gothic Italic.otf) format('opentype');
 }
-
+*/
 header{
 	background: white;
 	width: 100%;
@@ -75,7 +75,11 @@ nav ul li{
 	font-weight: bold;
 	letter-spacing: 1px;
 }
-nav ul li:hover{
+nav ul li a:{
+	text-decoration:none;
+}
+
+nav ul li a:hover{
 	color: gray;
 }
 
